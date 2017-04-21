@@ -13,7 +13,7 @@ namespace AdMobExample
         {
             InitializeComponent();
 
-            MainPage = new AdMobExample.MainPage();
+            MainPage = new NavigationPage( new MainPage());
         }
 
         protected override void OnStart()

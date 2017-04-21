@@ -8,8 +8,10 @@ C:\repos\AdMobExample\AdMobExample\AdMobExample\bin\Debug\Xamarin.Forms.Core.xml
 C:\repos\AdMobExample\AdMobExample\AdMobExample\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\repos\AdMobExample\AdMobExample\AdMobExample\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\repos\AdMobExample\AdMobExample\AdMobExample\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\repos\AdMobExample\AdMobExample\AdMobExample\obj\Debug\AdMobExample.csprojResolveAssemblyReference.cache
 C:\repos\AdMobExample\AdMobExample\AdMobExample\obj\Debug\AdMobExample.Views.MainPage.xaml.g.cs
 C:\repos\AdMobExample\AdMobExample\AdMobExample\obj\Debug\AdMobExample.App.xaml.g.cs
 C:\repos\AdMobExample\AdMobExample\AdMobExample\obj\Debug\AdMobExample.dll
 C:\repos\AdMobExample\AdMobExample\AdMobExample\obj\Debug\AdMobExample.pdb
+C:\repos\AdMobExample\AdMobExample\AdMobExample\obj\Debug\AdMobExample.csprojResolveAssemblyReference.cache
+C:\repos\AdMobExample\AdMobExample\AdMobExample\obj\Debug\AdMobExample.dll.mdb
+C:\repos\AdMobExample\AdMobExample\AdMobExample\bin\Debug\AdMobExample.dll.mdb
